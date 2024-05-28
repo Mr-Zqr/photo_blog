@@ -1202,7 +1202,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #7eff3b;
+  background: #ff4169;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2601,15 +2601,4 @@ ul.breadcrumb li + li:last-child {
 }
 .vpower.txt-right {
   display: none;
-}
-body {
-  background: url("/images/bkg.jpg");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: 50% 50%;
-  background-size: cover;
-  -webkit-background-size: cover;
-  -o-background-size: cover;
-  -moz-background-size: cover;
-  -ms-background-size: cover;
 }
